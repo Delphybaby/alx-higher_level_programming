@@ -1,6 +1,7 @@
+#!/usr/bin/python3
+"""Defines a Rectangle class."""
+
+
 class Rectangle:
-        def __init__(self, length, width):
-            self.l = length
-            self.w = width
-        def define_rect(self):
-            return self.l * self.w
+    """Represent a rectangle."""
+    pass
